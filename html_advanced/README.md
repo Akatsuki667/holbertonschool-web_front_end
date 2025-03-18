@@ -17,3 +17,9 @@ Create your first HTML file `0-index.html` with:
 - Title
 - Description
 - Favicons
+
+# 3. Simple header, main, footer
+- Copy the content of `2-index.html` into `3-index.html`
+- Header
+- Main
+- Footer
