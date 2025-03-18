@@ -39,3 +39,9 @@ Create your first HTML file `0-index.html` with:
 - Work articles
 - News articles
 - Testimonials articles
+
+# 7. Navigation
+- Copy the content of `6-index.html` into `7-index.html`
+    - remove the `Header` text inside the `<header>`
+    - create the `nav` tag inside the `header` tag
+        - it should remain empty for now
