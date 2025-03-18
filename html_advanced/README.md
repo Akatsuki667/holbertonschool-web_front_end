@@ -23,3 +23,9 @@ Create your first HTML file `0-index.html` with:
 - Header
 - Main
 - Footer
+
+# 4. Aside
+- Copy the content of `3-index.html` into `4-index.html`
+- change the `<title>` to put: `Article - Techium`
+- inside the `main` tags
+    - after the text, create the `aside` tags with text `Aside`
