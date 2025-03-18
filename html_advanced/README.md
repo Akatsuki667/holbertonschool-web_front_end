@@ -9,3 +9,11 @@ Create your first HTML file `0-index.html` with:
 - Copy the content of `0-index.html` into `1-index.html`
 - __Create the head and body sections__
     - inside the `html` tag, create the `head` and `body` tags (empty) in this order
+
+# 2. The head - meta charset, viewport, title, description, favicons
+- Copy the content of `1-index.html` into `2-index.html`
+- Meta charset
+- Viewport
+- Title
+- Description
+- Favicons
