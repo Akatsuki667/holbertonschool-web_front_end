@@ -50,3 +50,7 @@ Create your first HTML file `0-index.html` with:
 - Copy the content of `7-index.html` into `8-index.html`
     - create the level 1 heading inside your `main` before your sections
         - put text `Homepage` in your heading tag
+
+# 9. Level 2 headings
+- Copy the content of `8-index.html` into `9-index.html`
+    - create mor heading
