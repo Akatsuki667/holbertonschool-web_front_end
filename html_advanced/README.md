@@ -54,3 +54,10 @@ Create your first HTML file `0-index.html` with:
 # 9. Level 2 headings
 - Copy the content of `8-index.html` into `9-index.html`
     - create mor heading
+
+# 10. Level 3 headings
+- Copy the content of `9-index.html` into `10-index.html`
+- Services headings
+- Works headings
+- About Us headings
+- Latest news headings
