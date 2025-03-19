@@ -69,3 +69,10 @@ Create your first HTML file `0-index.html` with:
 - create a new `<section>` inside your `main` tag
     - create a `header` in this section
         - in the `header` add a level 2 heading with text `Headings`
+
+# 12. Paragraphs
+- Copy the content of `10-index.html` into `12-index.html`
+- About Us paragraphs
+- Latest news paragraphs
+- Contact paragraph:
+- Additional paragraphs:
