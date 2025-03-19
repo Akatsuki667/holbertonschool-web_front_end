@@ -42,18 +42,18 @@ Create your first HTML file `0-index.html` with:
 
 # 7. Navigation
 - Copy the content of `6-index.html` into `7-index.html`
-    - remove the `Header` text inside the `<header>`
-    - create the `nav` tag inside the `header` tag
-        - it should remain empty for now
+- remove the `Header` text inside the `<header>`
+- create the `nav` tag inside the `header` tag
+    - it should remain empty for now
 
 # 8. Level 1 headings
 - Copy the content of `7-index.html` into `8-index.html`
-    - create the level 1 heading inside your `main` before your sections
-        - put text `Homepage` in your heading tag
+- create the level 1 heading inside your `main` before your sections
+    - put text `Homepage` in your heading tag
 
 # 9. Level 2 headings
 - Copy the content of `8-index.html` into `9-index.html`
-    - create mor heading
+- create mor heading
 
 # 10. Level 3 headings
 - Copy the content of `9-index.html` into `10-index.html`
@@ -61,3 +61,11 @@ Create your first HTML file `0-index.html` with:
 - Works headings
 - About Us headings
 - Latest news headings
+
+# 11. styleguide
+- Copy the content of `3-index.html` into `11-index.html`
+- change the title to `Styleguide - Techium`
+- remove the text from `header`, `main`, and `footer`
+- create a new `<section>` inside your `main` tag
+    - create a `header` in this section
+        - in the `header` add a level 2 heading with text `Headings`
