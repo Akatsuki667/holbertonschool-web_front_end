@@ -224,3 +224,8 @@ Copy the content of `18-index.html` into `about.html`, `latest_news.html` and `c
         - replace the text with a blockquote with text `Thank you so much for your help. Techium company is awesome! and cite author Dorrie S.`
 in the third `article`
         - replace the text with a blockquote with text `I love your system. Definitely worth the investment. I'd be lost without Techium company. and cite author Sven H.`
+
+# 30. Examples of quotes
+- Copy the content of `28-styleguide.html` into `30-styleguide.html`
+- Example of inline quote
+- Example of blockquote
