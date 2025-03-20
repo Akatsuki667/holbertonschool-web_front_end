@@ -200,3 +200,9 @@ Copy the content of `18-index.html` into `about.html`, `latest_news.html` and `c
 - Example of unordered list
 - Example of ordered list:
 - Example of definition list:
+
+# 27. Separate content
+- Copy the content of `25-index.html` into `27-index.html`
+- in the `footer` between the two `divs`:
+    - add a horizontal rule
+    - after the horizontal rule add a paragraph with text `© 2020 Techium, made with ♥ by students at Holberton School.`
