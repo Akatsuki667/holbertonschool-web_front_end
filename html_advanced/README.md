@@ -206,3 +206,11 @@ Copy the content of `18-index.html` into `about.html`, `latest_news.html` and `c
 - in the `footer` between the two `divs`:
     - add a horizontal rule
     - after the horizontal rule add a paragraph with text `© 2020 Techium, made with ♥ by students at Holberton School.`
+
+# 28. Horizontal rule example
+- Copy the content of `26-styleguide.html` into `28-styleguide.html`
+- in `main` after Lists `section`
+    - add a new line and a comment with the text `Horizontal rule`
+    - create a new `section`
+        - create a `header` and inside it add a level 2 heading with the text `Horizontal rule`
+        - after the `header` create a `div` and put a horizontal rule in it
