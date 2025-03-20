@@ -171,7 +171,7 @@ Copy the content of `18-index.html` into `about.html`, `latest_news.html` and `c
     - create a link to `contact.html` with text `Get in touch`
 
 # 23. Services, Works, Latest news links
-- Copy the content of `21-index.html` into `22-index.html`
+- Copy the content of `22-index.html` into `23-index.html`
 - in the Services `section`
     - in each level 3 heading, create a link to `#` around the text already in the heading
 - in the Works `section`
@@ -179,4 +179,9 @@ Copy the content of `18-index.html` into `about.html`, `latest_news.html` and `c
 - in the Latest news `section`
     - in each level 3 heading, create a link to `#` around the text already in the heading
 
-# 
+# 24. List the links
+- Copy the content of `23-index.html` into `24-index.html`
+- in the `nav`
+    - create an unordered list, put each anchor tag (Home, Services, Works, …) as an individual list item
+- in the `div` in the `footer`
+    - create an unordered list and put each anchor tag (Facebook, Twitter, …) as an individual list item
