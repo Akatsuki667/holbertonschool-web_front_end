@@ -170,4 +170,13 @@ Copy the content of `18-index.html` into `about.html`, `latest_news.html` and `c
 - in the Contact `section`, after the `div` containing the paragraph
     - create a link to `contact.html` with text `Get in touch`
 
+# 23. Services, Works, Latest news links
+- Copy the content of `21-index.html` into `22-index.html`
+- in the Services `section`
+    - in each level 3 heading, create a link to `#` around the text already in the heading
+- in the Works `section`
+    - in each level 3 heading, create a link to `#` around the text already in the heading
+- in the Latest news `section`
+    - in each level 3 heading, create a link to `#` around the text already in the heading
+
 # 
