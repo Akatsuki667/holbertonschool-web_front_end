@@ -185,3 +185,12 @@ Copy the content of `18-index.html` into `about.html`, `latest_news.html` and `c
     - create an unordered list, put each anchor tag (Home, Services, Works, …) as an individual list item
 - in the `div` in the `footer`
     - create an unordered list and put each anchor tag (Facebook, Twitter, …) as an individual list item
+
+# 25. Secondary navigation menu
+- Copy the content of `24-index.html` into `25-index.html`
+- inside the `footer`, after the `div`
+    - create a new `div`
+    - in the new `div` create an unordered list with the following links:
+        - link to `#` with text `Terms of Use`
+        - link to `#` with text `Privacy Policy`
+        - link to `#` with text `Cookie Policy`
