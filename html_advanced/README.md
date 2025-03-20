@@ -130,3 +130,8 @@ Create your first HTML file `0-index.html` with:
 - before the `Latest news` section add a line break and a comment saying `Latest news section`
 - before the `Testimonials section` add a line break and a comment saying `Testimonials section`
 - before the `Contact section` add a line break and a comment saying `Contact section`
+
+# 18. link your logo
+- Copy the content of `17-index.html` into `18-index.html`
+- in the `header`, wrap the `span` with a link that redirects to the page at the root of your folder (`/`)
+- wrap the link with a `div`
