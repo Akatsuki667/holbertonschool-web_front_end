@@ -194,3 +194,9 @@ Copy the content of `18-index.html` into `about.html`, `latest_news.html` and `c
         - link to `#` with text `Terms of Use`
         - link to `#` with text `Privacy Policy`
         - link to `#` with text `Cookie Policy`
+
+# 26. Examples of lists for the styleguide
+- Copy the content of `13-styleguide.html` into `26-styleguide.html`
+- Example of unordered list
+- Example of ordered list:
+- Example of definition list:
