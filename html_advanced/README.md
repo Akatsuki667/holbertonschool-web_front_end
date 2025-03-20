@@ -144,7 +144,6 @@ Copy the content of `18-index.html` into `about.html`, `latest_news.html` and `c
 
 # 20. Add links
 - Copy the content of `18-index.html` into `20-index.html`
-
 - in your `nav` tags
     - create a link to `/` with the text `Home`
     - create an anchor to `services` with the text `Services`
@@ -153,3 +152,11 @@ Copy the content of `18-index.html` into `about.html`, `latest_news.html` and `c
     - create an anchor to `latest_news` with the text `Latest news`
     - create an anchor to `testimonials` with the text `Testimonials`
     - create an anchor to `contact` with the text `Contact`
+
+# 21. Add social media links
+- Copy the content of `20-index.html` into `21-index.html`
+- in the `div` in the `footer`
+    - remove any text you have
+    - create a link to `https://www.facebook.com/HolbertonSchool/` with the text Facebook
+    - create a link to `https://twitter.com/holbertonschool` with the text Twitter
+    - create a link to `https://www.instagram.com/holbertonschool/` with the text Instagram
