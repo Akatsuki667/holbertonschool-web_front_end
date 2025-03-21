@@ -254,4 +254,17 @@ in the third `article`
         - in the `section` create a `header`, in the `header` add a level 2 heading with the text `Table`
         - after the `header`, create a `table`, reproduce in HTML the visual below
 
-#
+# 34. Details
+- Copy the content of `32-styleguide.html` into `33-styleguide.html`
+- in `main` tag after Table `section`
+    - add a new line and a comment with text `Details`
+    - create a new `section`
+        - create a `header`, in the `header` add a level 2 heading with the text Details
+        - after the `header` create a `div`
+            - in the `div` add a level 3 heading with text `Default`
+            - add a details element and specify `Show/Hide` me in the `summary`
+            - add this text after the `summary`: `Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.`
+    - create another `div`
+        - add a level 3 heading with text `Open`
+        - add a details element that is open by default and specify `Always open` in the `summary`
+        - add this text after the `summary`: `Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.`
