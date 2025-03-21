@@ -245,3 +245,13 @@ in the third `article`
     - add a new line and a comment with text `Typography`
     - create a new `section`
         - in the section create a `header` and inside it add a level 2 heading with the text `Typography`
+
+# 33. Table
+- Copy the content of `32-styleguide.html` into `33-styleguide.html`
+- inside `main` after Typography `section`
+    - add a new line and a comment with text `Table`
+    - create a new `section`
+        - in the `section` create a `header`, in the `header` add a level 2 heading with the text `Table`
+        - after the `header`, create a `table`, reproduce in HTML the visual below
+
+#
