@@ -281,3 +281,11 @@ in the third `article`
     - insert the logo image
     - alt: `Techium logo`
     - don’t forget to specify the width and height (same as in header)
+
+# 36. Add images to your sections
+- Copy the content of `35-index.html` into `36-index.html`
+- You can use image generators to get images for this task. For avatar images you can download them on `UI Faces`. Just make sure you rename your images to match the task requirements.
+- Add three images in the Works section
+- Add one image in the About Us section
+- Add three images in the Latest news section
+- Add three images in the Testimonials section
