@@ -297,4 +297,14 @@ in the third `article`
     - replace the text `Twitter` with the SVG icon code and add width of `25px` and height of `25px` to the SVG tag
     - replace the text `Instagram` with the SVG icon code and add width of `25px` and height of `25px` to the SVG tag
 
-# 
+# 38. Add a video player in the styleguide
+- Copy the content of `34-styleguide.html` into `38-styleguide.html`
+- in `main` after the Details `section`
+    - add a new line and a comment with text `Video`
+    - create a `section`
+        - in the `section` create a `header`, in the `header` add a level 2 heading with the text `Video`
+        - after the header add the following video: `https://intranet-projects-files.s3.amazonaws.com/webstack/BigBuckBunny.mp4`
+        - add controls to the video
+        - ensure that the video does a loop
+        - display `https://intranet-projects-files.s3.amazonaws.com/webstack/thumbnail.jpg` when the video is downloading
+        - provide an alternative text: `Sorry, your browser doesn't support HTML5 video`
