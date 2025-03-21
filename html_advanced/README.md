@@ -239,4 +239,9 @@ in the third `article`
     - in the second `article`, after the last paragraph, add the author name in small print: `By William A.`
     - in the third `article`, after the last paragraph, add the author name in small print: `By Frances J.`
 
-# 
+# 32. Typography section - using the correct tags
+- Copy the content of `30-styleguide.html` into `32-styleguide.html`
+- inside `main` after the Blockquotes `section`
+    - add a new line and a comment with text `Typography`
+    - create a new `section`
+        - in the section create a `header` and inside it add a level 2 heading with the text `Typography`
