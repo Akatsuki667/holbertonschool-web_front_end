@@ -289,3 +289,12 @@ in the third `article`
 - Add one image in the About Us section
 - Add three images in the Latest news section
 - Add three images in the Testimonials section
+
+# 37. Social icons
+- Copy the content of `36-index.html` into `index.html`
+- inside the `footer`
+    - replace the text `Facebook` with the SVG icon code and add width of `25px` and height of `25px` to the SVG tag
+    - replace the text `Twitter` with the SVG icon code and add width of `25px` and height of `25px` to the SVG tag
+    - replace the text `Instagram` with the SVG icon code and add width of `25px` and height of `25px` to the SVG tag
+
+# 
