@@ -229,3 +229,14 @@ in the third `article`
 - Copy the content of `28-styleguide.html` into `30-styleguide.html`
 - Example of inline quote
 - Example of blockquote
+
+# 31. Address and latest news authors
+- Copy the content of `29-index.html` into `31-index.html`
+- in the `footer`
+    - right after open f`footer` tag, put the following address: 234 Washington Street (line-break) Urbana, Illinois
+- in the Latest news `section`
+    - in the first `article`, after the last paragraph, add the author name in small print: `By Kelly D.`
+    - in the second `article`, after the last paragraph, add the author name in small print: `By William A.`
+    - in the third `article`, after the last paragraph, add the author name in small print: `By Frances J.`
+
+# 
