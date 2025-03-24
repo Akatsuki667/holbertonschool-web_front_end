@@ -1,0 +1,39 @@
+/* Définition des variables CSS au niveau de la racine du document */
+:root {
+    --color-primary: #d73953;
+    --color-black: #090909;
+    --color-white: #ffffff;
+    --color-light-grey: #f3f3f3;
+    --color-dark-grey: #353535;
+    --text-color: var(--color-black);
+}
+
+/* Configure le comportement de défilement fluide */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Style du corps de la page utilisant la variable de couleur de texte */
+body {
+    color: var(--text-color);
+}
+
+/* Style des liens utilisant la variable de couleur de texte */
+a {
+    color: var(--text-color);
+}
+
+/* Masque les éléments avec la classe visually-hidden */
+.visually-hidden {
+    display: none;
+}
+
+/* Applique la couleur primaire aux éléments avec la classe card-category */
+.card-category {
+    color: var(--color-primary);
+}
+
+/* Applique la couleur primaire aux éléments avec la classe section-tagline */
+.section-tagline {
+    color: var(--color-primary);
+}
